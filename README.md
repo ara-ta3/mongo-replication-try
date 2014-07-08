@@ -50,6 +50,10 @@ connecting to: test
 > rs.initiate(config)
 ```
 
+> _id : 'repltry'
+
+は[mongo.confの設定](https://github.com/tarata/mongo-replication-try/blob/master/script/mongod.conf#L11 )に合わせています。
+
 ### それぞれのサーバへのログイン
 
 PRIMARY Server
